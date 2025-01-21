@@ -11,6 +11,7 @@ It has a similar design to Thrustmaster's TSS Handbrake
 Connect to PC with BLE using ESP32-C3 Supermini board
 
 Why do I use BLE?
+
 One Bluetooth dongle can control seven active equipment
 To get rid of the ever-long USB hub in sim racing, I prefer wireless connectivity for other equipment except wheelbase, pedal, shifter that needs fast responsiveness
 
